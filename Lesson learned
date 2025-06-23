@@ -1,0 +1,28 @@
+## 🤔 Lessons Learned
+- Always validate key label columns before analysis
+- Clean data ≠ usable data — integrity matters
+- Telling the story of data *limitations* is just as valuable as building a perfect model
+
+---
+
+## 🔗 Dataset Source
+Public credit card transaction dataset — commonly used for fraud detection learning (e.g., Kaggle or research demo sets).
+
+---
+
+## 📥 How to Use
+1. Clone/download this repository  
+2. Open `FraudDetectionReport.pbix` in Power BI  
+3. Review data and visuals  
+4. Read through `docs/label_validation_notes.pdf` for commentary
+
+---
+
+## 🙋‍♀️ About Me
+Self-taught data analyst with an interest in real-world data projects that go beyond the textbook — where the data isn’t always clean, complete, or convenient.
+
+---
+
+## 📫 Connect
+- [LinkedIn](#) *(Insert your LinkedIn profile link)*
+- [Project Write-up Post](#) *(Optional — add LinkedIn article/post URL)*
